@@ -7,3 +7,9 @@ Dataset file is pushed on Remote Storage.
 ![image](https://github.com/AsraaZahoor/MLOps-Task-6-0861-1786/assets/125173520/b2da46a5-f181-4ced-b8d7-0d7a948bf1fd)
 
 
+Person 2
+Pull the file
+![image](https://github.com/AsraaZahoor/MLOps-Task-6-0861-1786/assets/125173520/baf6752d-1d30-408d-8e2d-254e96f3221b)
+
+
+
